@@ -41,5 +41,5 @@ Compile e execute no seu ambiente preferido (PC, Android, iOS).
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um Pull Request ou reportar problemas na aba de issues.
 
 ## 🧑‍💻 Desenvolvedores Envolvidos nesse Projeto:
-Marcos Hiroshi : https://github.com/Elinalucia1 </br>
+Marcos Hiroshi : https://github.com/Marcos-Yogi </br>
 Vinícius Nishimura : https://github.com/Vinishireis
