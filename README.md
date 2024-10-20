@@ -1,6 +1,6 @@
-# Rush_Horizon
+# Dash_Horizon
 
-Rush Horizon é um jogo endless runner desenvolvido em Unity. Nele, o jogador assume o controle de uma ave que voa por um caminho infinito, desviando de obstáculos e coletando power-ups para maximizar sua pontuação.
+Dash Horizon é um jogo endless runner desenvolvido em Unity. Nele, o jogador assume o controle de uma ave que voa por um caminho infinito, desviando de obstáculos e coletando power-ups para maximizar sua pontuação.
 
 ## 🎮 Jogabilidade
 
@@ -33,7 +33,7 @@ Rush Horizon é um jogo endless runner desenvolvido em Unity. Nele, o jogador as
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Rush_Horizon.git
+   git clone https://github.com/seu-usuario/Dash_Horizon.git
 Abra o projeto no Unity Editor.
 Compile e execute no seu ambiente preferido (PC, Android, iOS).
 
