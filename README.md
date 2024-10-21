@@ -10,7 +10,7 @@ Dash Horizon é um jogo endless runner desenvolvido em Unity. Nele, o jogador as
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Unity 2023
+- Unity 2022.3 versão de editor: 2022.3.36f1
 - C#
 - Texturas e modelos 3D otimizados
 - Sistema de física e colisão da Unity para uma jogabilidade suave
