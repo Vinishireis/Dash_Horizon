@@ -33,7 +33,7 @@ Dash Horizon é um jogo endless runner desenvolvido em Unity. Nele, o jogador as
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Dash_Horizon.git
+   git clone https://github.com/Vinishireis/Dash_Horizon.git
 Abra o projeto no Unity Editor.
 Compile e execute no seu ambiente preferido (PC, Android, iOS).
 
