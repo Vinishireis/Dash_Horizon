@@ -1,6 +1,6 @@
 # Dash_Horizon
 
-Dash Horizon é um jogo endless runner desenvolvido em Unity. Nele, o jogador assume o controle de uma ave que voa por um caminho infinito, desviando de obstáculos e coletando power-ups para maximizar sua pontuação.
+Dash Horizon é um jogo endless runner desenvolvido em Unity pelo alunos Marcos Hiroshi e Vinícius Nishimura Reis, alunos da FECAP do curso Bacharelado em Ciencias da Computação. Nele, o jogador assume o controle de uma ave que voa por um caminho infinito, desviando de obstáculos e coletando power-ups para maximizar sua pontuação.
 
 ## 🎮 Jogabilidade
 
@@ -22,6 +22,11 @@ Dash Horizon é um jogo endless runner desenvolvido em Unity. Nele, o jogador as
 - **Power-ups**: Coletáveis que oferecem vantagens temporárias, como invencibilidade ou bônus de pontuação.
 - **Dificuldade Progressiva**: A dificuldade aumenta conforme o jogador corre mais tempo, desafiando a habilidade e a concentração.
 - **Placar**: Sistema de pontuação para desafiar seus amigos e tentar bater seu próprio recorde.
+
+##  🕹️ Gameplay
+
+https://github.com/user-attachments/assets/233bf7b4-1d60-4aad-8dc2-d24555535a6c
+
 
 ## 📋 Como Jogar
 
